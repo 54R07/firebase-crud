@@ -1,16 +1,55 @@
-# firebase_crud
+__Firebase_CRUD__
 
-A new Flutter project.
+A simple application demonstrating Create, Read, Update, and Delete (CRUD) operations using Firebase Realtime Database.
 
-## Getting Started
+<hr style="border: 2px solid #ddd; margin: 30px 0;">
 
-This project is a starting point for a Flutter application.
+__Features__
+ 
+- Create: Add new records to the database
 
-A few resources to get you started if this is your first Flutter project:
+- Read: Retrieve and display all records
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Update: Modify existing records
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Delete: Remove records from the database
+
+- Real-time Updates: Data automatically updates across the app when changes occur
+
+ <hr style="border: 2px solid #ddd; margin: 30px 0;">
+  
+__Setup__
+
+Run the following commands from your terminal:
+
+1. `https://github.com/54R07/firebase-crud` to clone this repository
+
+2. `flutter pub get` in the project root directory to install all the required dependencies.
+
+<hr style="border: 2px solid #ddd; margin: 30px 0;">
+
+__Screenshots__
+
+<p align="center">
+ 
+  <img src="./screenshots/1.png.jpg" width="30%" />
+  
+  <img src="./screenshots/2.png.jpg" width="30%" />
+  
+  <img src="./screenshots/3.png.jpg" width="30%" />
+  
+</p>
+
+<p align="center">
+ 
+  <img src="./screenshots/4.png.jpg" width="30%" />
+ 
+  <img src="./screenshots/5.png.jpg" width="30%" />
+  
+  <img src="./screenshots/6.png.jpg" width="30%" />
+  
+</p>
+
+
+
+
